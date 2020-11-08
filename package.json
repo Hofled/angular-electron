@@ -1,7 +1,7 @@
 {
   "name": "angular-electron",
   "version": "0.0.1",
-  "description": "Angular 10 with Electron (Typescript + SASS + Hot Reload)",
+  "description": "Angular 10 + Angular Material with Electron (Typescript + SASS + Hot Reload)",
   "homepage": "https://github.com/Hofled/angular-electron",
   "author": {
     "name": "Hofled",
